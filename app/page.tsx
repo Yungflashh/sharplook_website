@@ -560,6 +560,8 @@ export default function Home() {
                 <li><a href="#" className="hover:text-primary transition-colors">Privacy Policy</a></li>
                 <li><a href="#" className="hover:text-primary transition-colors">Terms of Service</a></li>
                 <li><a href="#" className="hover:text-primary transition-colors">Cookie Policy</a></li>
+                <li><a href="/delete-account" className="hover:text-primary transition-colors">Delete Account</a></li>
+
                 <li><a href="#" className="hover:text-primary transition-colors">Support</a></li>
               </ul>
             </div>
